@@ -1,7 +1,13 @@
-Target: Use the Scanner class to read input from the keyboard.
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
 
-Class Programming Activity
-
- 
-
-Sync, open, and read the AvgOfThree package from GitHub.
+PROJECT TITLE:
+PURPOSE OF PROJECT:
+VERSION or DATE:
+DEPENDENCIES:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:
