@@ -3,16 +3,21 @@ import java.awt.geom.Ellipse2D;
 import java.awt.Color;
 
 /**
- * Write a description of class Moon here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Constructs a Moonthat can be displaced anywhere on the screen at ()
+ * Allen Lin  
+ * 10/18/14 
  */
+
 public class Moon
 {
+    //  instancevar xLeft the x-coordinate of the center of the moon on the screen. 
+    //  instancevar yTop the y-coordinate of the center of the moon on the screen. 
+
     private int xLeft; 
     private int yTop; 
     
+   // param@ x the x coordinate of center of the moon. 
+   // param@ y the y coordinate of the moon.   
     public Moon (int x, int y)
     {
         this.xLeft = x;
