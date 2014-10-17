@@ -6,14 +6,18 @@ import java.awt.geom.Point2D;
 import java.awt.Color;
 
 /**
- * Write a description of class Car here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * A car shape that can be positioned anywhere on the screen.
+ * Allen Lin 
+ * 10/17/14
  */
+ 
 public class Car
 {
-    /** description of instance variable x (add comment for each instance variable) */
+    /** 
+     * instancevar xLeft the x - coordinate of the top left conner.
+     * instancevar Xtop the y coorinate of the tope left conner. 
+    */
+    
     private int xLeft;
     private int yTop;
     
