@@ -31,6 +31,7 @@ public class Building
      * @param xLeft x coordinate of the top left corner
      * @param yTop y coordinate of the top left corner
      */
+     
     public Building (int xLeft, int yMin, int width, int height)
     {
         this.bHeight= height;
