@@ -5,11 +5,11 @@ import java.util.Random;
 import java.awt.Graphics2D;
 
 /**
- * Write a description of class Building here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * A retangular shape that can be positioned anywhere on the screen. 
+ * Allen Lin  
+ * 10/17/14
  */
+ 
 public class Building
 {
     /** int specify the starting pt of x */
