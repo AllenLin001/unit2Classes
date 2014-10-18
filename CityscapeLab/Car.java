@@ -21,12 +21,21 @@ public class Car
     private int xLeft;
     private int yTop;
     
+    /** 
+     * Constructs a car with given top left corner coordinates.
+     * @param x the x-coordinate of the top-left corner
+     * @param y the y-coordinate of the top left corner
+    */
+    
     public Car(int x, int y)
     {
         xLeft = x;
         yTop = y;
     }
-    
+    /** 
+     * Draws the car.
+     * @param g2 the graphics context 
+    */ 
     public void draw(Graphics2D g2)
     {
         Rectangle body = new Rectangle (xLeft, yTop+10, 120,20);
