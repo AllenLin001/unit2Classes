@@ -31,6 +31,7 @@ public class Car
     {
         xLeft = x;
         yTop = y;
+        
     }
     /** 
      * Draws the car.
