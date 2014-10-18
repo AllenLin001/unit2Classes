@@ -9,6 +9,7 @@ import javax.swing.JComponent;
  * @author Allen Lin 
  * @version 18 Oct 2014
  */
+ 
 public class CityscapeComponent extends JComponent
 {
     /**
