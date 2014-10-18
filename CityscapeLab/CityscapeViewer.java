@@ -3,8 +3,8 @@ import javax.swing.JFrame;
 /**
  * Class that contains the main method for the program and creates the frame containing the component.
  * 
- * @author @gcschmit
- * @version 18 July 2014
+ * @author @Allen Lin 
+ * @version 18 Oct 2014
  */
 public class CityscapeViewer
 {
@@ -21,7 +21,7 @@ public class CityscapeViewer
         frame.setTitle("Cityscape");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
-        // a frame contains a single component; create the Cityscape component and add it to the frame
+        // a frame contains a single component; creates the Cityscape component and add it to the frame
         CityscapeComponent component = new CityscapeComponent();
         frame.add(component);
         
