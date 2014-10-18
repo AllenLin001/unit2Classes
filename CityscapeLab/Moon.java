@@ -41,6 +41,7 @@ public class Moon
         g2.setColor(Color.YELLOW);
         g2.fillOval(this.xLeft+20,this.yTop,120,120);
         g2.draw (moon);
+        
     }
 }
 
